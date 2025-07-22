@@ -1,0 +1,60 @@
+{
+  "trending_kenya": {
+    "general": [
+      "🔥 Kenya is buzzing! '{keyword}' is the hottest trend right now. {context} #KenyaTrends #Nairobi",
+      "📈 What's got Kenyans talking? '{keyword}' is trending nationwide! {context} #KOT #TrendingNow",
+      "⚡ Alert: '{keyword}' is taking Kenya by storm! {context} #ViralKenya #Trending",
+      "🇰🇪 From Mombasa to Kisumu, everyone's discussing '{keyword}' {context} #OneKenya"
+    ],
+    "morning": [
+      "☀️ Good morning Kenya! Starting the day with '{keyword}' trending {context} #MorningTrends #Kenya",
+      "🌅 Rise and shine! '{keyword}' is what Kenyans are waking up to {context} #GoodMorningKenya"
+    ],
+    "evening": [
+      "🌆 As the sun sets, '{keyword}' lights up Kenyan social media {context} #EveningTrends",
+      "🌙 End of day update: '{keyword}' still trending strong in Kenya {context} #KenyaNights"
+    ]
+  },
+  "educational_content": {
+    "explainer": [
+      "📚 Let's break it down: Why '{keyword}' matters to Kenya {context} #EducateKenya #LearnTogether",
+      "💡 Quick lesson: Understanding '{keyword}' and its Kenyan context {context} #KnowledgeSharing",
+      "🎓 Educational moment: '{keyword}' explained for every Kenyan {context} #ElimuKenya"
+    ],
+    "facts": [
+      "📊 Did you know? Facts about '{keyword}' every Kenyan should know {context} #FactCheck #Kenya",
+      "🔍 Research shows: '{keyword}' insights for Kenyan audiences {context} #DataDriven"
+    ]
+  },
+  "engagement_posts": {
+    "questions": [
+      "🤔 Kenya decides: What's your stance on '{keyword}'? Share below! {context} #KenyaDecides",
+      "❓ Question for KOT: How does '{keyword}' affect your daily life? {context} #KOTDiscussion",
+      "💭 Thinking aloud: Is '{keyword}' good or bad for Kenya? Your thoughts? {context} #KenyaThinks"
+    ],
+    "polls": [
+      "📊 Poll time! Rate '{keyword}' impact on Kenya: 👍 Positive 👎 Negative {context} #KenyaPoll",
+      "🗳️ Your vote counts: Should Kenya embrace '{keyword}'? Yes/No in comments {context} #VoteKenya"
+    ]
+  },
+  "news_updates": {
+    "breaking": [
+      "🚨 Breaking: '{keyword}' developing story in Kenya {context} #BreakingNews #Kenya",
+      "📰 News Alert: '{keyword}' - here's what we know so far {context} #KenyaNews #Update"
+    ],
+    "analysis": [
+      "🔎 In-depth: How '{keyword}' is shaping Kenya's future {context} #Analysis #KenyaFuture",
+      "📈 Trend Analysis: '{keyword}' impact on Kenyan society {context} #TrendAnalysis"
+    ]
+  },
+  "cultural_local": {
+    "swahili_touch": [
+      "🇰🇪 Haya jamani! '{keyword}' ni trending sana Kenya! {context} #SwahiliTrends #Kenya",
+      "✨ Pole pole, lakini '{keyword}' inashika Kenya kwa nguvu! {context} #KiswahiliVibes"
+    ],
+    "regional": [
+      "🏔️ From Mt. Kenya to the Coast: '{keyword}' unites all regions {context} #UnityInDiversity",
+      "🌊 Coastal to Highland: '{keyword}' resonates across Kenya {context} #Kenya254"
+    ]
+  }
+}
